@@ -7,4 +7,4 @@ api: [3.0.0]
 commands:
     rules:
         default: true
-        description: §4Rules ui test by antaxio
+        description: §4Rules ui test by antaxio test 1
