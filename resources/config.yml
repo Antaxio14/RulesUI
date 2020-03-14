@@ -1,0 +1,11 @@
+---
+#Here you can change the messages that will display
+#Utulise "§" pour maitre de la couleur
+#Use "\n" pour maitre une lign en dessou
+#vous pouvez modifiez le titre de vottre menu UI ici en dessou
+Title: "§4§lRulesUI"
+#ci-dessoutu peux modif la desc de ton menu(Description)
+Content: "§l§4Go vous abonne a AntaxioYT ps il est tres sympa"
+#Returns nom du boutton
+Button: "§a§lAccept"
+...
