@@ -1,0 +1,10 @@
+name: RulesUI
+author: Antaxio
+main: Antaxio\RulesUI
+version: 0.1
+description: Abonnez vous a ma chaine ytb AntaxioYT!
+api: [3.0.0]
+commands:
+    rules:
+        default: true
+        description: §4Rules ui test by antaxio
